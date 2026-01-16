@@ -4,68 +4,121 @@
 
 ## 👋 About Me
 
-Hi! I'm Jyoti Sinha, a passionate Software Engineer with 3+ years of experience designing and implementing scalable microservices, AI-integrated systems, and high-performance APIs. I love building robust solutions and solving complex problems through code.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0f52ba&center=true&vCenter=true&width=600&lines=Hello+there+👋;I+am+Jyoti+Sinha;I+have+Master's+in+Computer+Science;I+am+working+as+a+Software+Developer)](https://git.io/typing-svg)
 
-💻 Currently: Software Engineer at SS&C Technologies, California
-🎓 Education: MS Computer Science (AI Minor) - University at Buffalo | BE Electronics & Telecommunication - BIT MESRA
-🚀 Passion: Building scalable microservices, AI/ML integration, and system optimization
-🌱 Always Learning: New technologies, best practices, and innovative solutions
+---
+
+## 👋 About Me
+
+Hi! I'm **Jyoti Sinha**, a passionate **Software Engineer** with **3+ years** of experience designing and implementing scalable microservices, AI-integrated systems, and high-performance APIs. I love building robust solutions and solving complex problems through code.
+
+* **💻 Currently:** Software Engineer at SS&C Technologies, California
+* **🎓 Education:** MS Computer Science (AI Minor) - University at Buffalo | BE Electronics & Telecommunication - BIT MESRA
+* **🚀 Passion:** Building scalable microservices, AI/ML integration, and system optimization
+* **🌱 Always Learning:** New technologies, best practices, and innovative solutions
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages:**
-- Java, Python, JavaScript, C++, SQL
+### **Languages**
+Java · Python · Golang · JavaScript · C# · SQL · HTML · CSS
 
-**Frontend:**
-- HTML, CSS, React, Vue.js
+### **AI & LLM Integration**
+LangChain · OpenAI · RAG · Vector DB (FAISS, Pinecone) · MCP · Ollama · Hugging Face · Transformers · Prompt Engineering · TensorFlow · Keras
 
-**Backend:**
-- Node.js, Express, Spring Boot, Django, Flask
+### **Databases & Data Systems**
+PostgreSQL · MS SQL Server · MongoDB · Redis · Trino · Starburst · Apache Hive · HDFS
 
-**Databases:**
-- MySQL, PostgreSQL, MongoDB, Firebase
+### **Backend & Frameworks**
+Spring Boot · ASP.NET · FastAPI · RESTful APIs · gRPC · ProtoBuf · Streamlit · Hibernate · JPA
 
-**Tools & Technologies:**
-- Git, GitHub, Docker, REST APIs, Postman, VS Code
+### **Cloud & DevOps**
+Docker · Kubernetes · Helm · AWS (Lambda, EC2, S3) · Grafana · Prometheus · Model Deployment Pipelines
 
-**Other:**
-- Data Structures, Algorithms, System Design, Agile/Scrum
-
----
-
-## 💼 Experience
-
-As a Software Developer, I have experience in:
-- Full-stack web development
-- Building scalable applications
-- Database design and optimization
-- REST API development
-- Problem-solving and debugging
-- Working with teams in Agile environments
+### **Tools & Methodologies**
+Git · JIRA · Swagger · Postman · Maven · Gradle · SPSS · System Design · Microservices Architecture
 
 ---
 
-## 📚 What I Work On
+## 💼 Professional Experience
 
-- Building web applications from scratch
-- Optimizing code for performance
-- Implementing clean code practices
-- Learning new frameworks and technologies
-- Contributing to open-source projects
-- Solving algorithmic challenges
+### **Software Engineer @ SS&C Technologies** | California, USA | May 2022 – Present
+
+**RAG-Powered Conversational Intelligence**
+* Led design of RAG-powered conversational intelligence backend using Python, LangChain, and FastAPI
+* Achieved **20% increase** in user engagement through enhanced contextual accuracy and scalability
+
+**Database Optimization & Cost Reduction**
+* Replaced Starburst with open-source Trino, implemented fine-grained access control via OPA
+* Optimized query execution parameters and caching layers
+* **Result:** 35% performance improvement + **$2M+ annual cost savings**
+
+**Audit Logging Infrastructure**
+* Architected Trino audit logging by implementing QueryLog plugin
+* Migrated storage to SS&C Cloud, eliminating Kubernetes disk pressure
+* Integrated structured logs with Grafana for centralized visibility
+
+**Microservices Development**
+* Developed Java Spring Boot microservice with dynamic configuration framework
+* Served 50+ clients with self-service data retrieval using user-defined query parameters
+* Implemented pagination and streaming pipelines, reducing response time by **21%**
+* Added one-click CSV and Excel exports for large-scale client data
+
+**Performance Optimization**
+* Integrated Redis caching layer, cutting execution time by **30%**
+* Reduced latency and improved system throughput for enterprise workloads
+* Implemented scalable microservices using Java, Spring Boot, and C# ASP.NET Minimal API
+
+**API Development**
+* Developed high-performance RESTful APIs in Golang using SQLC and ProtoBuf
+* Ensured fast, reliable, and maintainable cross-service interactions
 
 ---
 
-## 🎯 My Interests
+### **Software Engineer @ BDIPLUS** | New York City, USA | Mar 2022 – May 2022
 
-- Full-stack Web Development
-- Cloud Technologies
-- Software Architecture
-- Open Source Contribution
-- Tech Blogging
-- Mentoring Junior Developers
+* Developed multi-step sign-up form using JavaScript, React, Redux, and Bootstrap
+* Implemented server-side endpoints with Node.js and SQL
+* Resolved critical bugs with tight deadlines for launch-ready product
+
+---
+
+## 🎓 Education
+
+### **MS Computer Science (AI Minor)**
+**University at Buffalo, USA** | Aug 2019 – Feb 2022
+* Research Fellowship | Teaching Assistant (Machine Learning, Pattern Recognition, DBMS)
+* Perfect GPA
+
+### **BE Electronics & Telecommunication Engineering**
+**BIT MESRA, India** | Aug 2014 – May 2018
+* Best Outgoing Award
+
+---
+
+## 📚 Research & Internship Experience
+
+### **Graduate Research Intern @ University at Buffalo** | Buffalo, USA | Fall 2020 – Fall 2021
+* Developed scalable cross-browser webapp for user perception studies about biometric systems
+* Analyzed 4TB+ of data using CNN, Chi-Squared test, SFS, SBS algorithms
+* Published research on user concerns regarding biometric security systems
+
+### **Data Engineer Intern @ BDIPLUS** | New York City, USA | May 2021 – Dec 2021
+* Built data pipeline extracting 4TB of customer/prospect data into HDFS cluster
+* Used Apache Hive, PySpark, and Shell scripting for large-scale data processing
+* Improved data accuracy by **16%** through advanced matching algorithms
+
+---
+
+## 🏆 Key Achievements
+
+✨ **$2M+ Cost Savings** - Optimized database infrastructure  
+⚡ **35% Performance Improvement** - Query execution optimization  
+📈 **20% User Engagement Increase** - RAG-powered AI integration  
+🚀 **21% Response Time Reduction** - Pagination and streaming implementation  
+💾 **30% Execution Time Cut** - Redis caching integration  
+📊 **16% Data Accuracy Improvement** - Advanced matching algorithms
 
 ---
 
@@ -77,57 +130,29 @@ As a Software Developer, I have experience in:
 
 ---
 
-## 🏆 Featured Projects
-
-### [Project 1 Name](https://github.com/jyotisinhaa/project-name)
-Brief description of your first project. What technologies did you use? What problem does it solve?
-
-**Tech Stack:** Java, Spring Boot, MySQL, React
-
-### [Project 2 Name](https://github.com/jyotisinhaa/project-name)
-Brief description of your second project and its features.
-
-**Tech Stack:** Python, Flask, PostgreSQL
-
-### [Project 3 Name](https://github.com/jyotisinhaa/project-name)
-Brief description of your third project.
-
-**Tech Stack:** JavaScript, React, Node.js, MongoDB
-
----
-
-## 📝 Latest Articles
-
-- [How to Build Scalable Applications](https://medium.com/@yourprofile) - Tips and best practices
-- [Database Optimization Techniques](https://dev.to/yourprofile) - Performance improvement strategies
-- [Getting Started with React](https://yourtech.blog) - Beginner-friendly guide
-
----
-
 ## 🤝 Let's Connect
 
-I'm always interested in collaborating on exciting projects and discussing software development. Feel free to reach out!
+I'm always interested in collaborating on exciting projects and discussing software engineering, system design, and AI/ML integration. Feel free to reach out!
 
 | Platform | Link |
 |----------|------|
-| 📧 **Email** | [your-email@gmail.com](mailto:your-email@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/jyotisinhaa](https://linkedin.com/in/jyotisinhaa) |
+| 📧 **Email** | [jyotisinhacse21@gmail.com](mailto:jyotisinhacse21@gmail.com) |
+| 📱 **Phone** | [716-200-8183](tel:716-200-8183) |
+| 💼 **LinkedIn** | [linkedin.com/in/Jyoti-Sinha](https://linkedin.com/in/Jyoti-Sinha) |
 | 🐙 **GitHub** | [@jyotisinhaa](https://github.com/jyotisinhaa) |
-| 🌐 **Portfolio** | [your-portfolio.com](https://your-portfolio.com) |
+| 📄 **Resume** | [Download Resume](https://drive.google.com/your-resume-link) |
 
 ---
 
-## 📈 Contribution Graph
+## 💡 Core Strengths
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jyotisinhaa&theme=react-dark&bg_color=20232a&hide_border=true)
+> System Design · Scalable Microservices · API Optimization · Data-Driven Problem Solving · Critical Thinking · Full-Stack Development · Cloud Architecture · AI/ML Integration
 
 ---
 
-## 💡 Quote
+## 🚀 Let's Build Something Amazing Together!
 
-> "The best time to plant a tree was 20 years ago. The second best time is now." – Chinese Proverb
-
-**Let's build something amazing together!** 🚀
+Feel free to explore my repositories, check out my projects, and reach out if you'd like to collaborate on exciting challenges.
 
 ---
 
@@ -135,8 +160,8 @@ I'm always interested in collaborating on exciting projects and discussing softw
 
 ### Thanks for visiting my profile! 🙏
 
-Feel free to explore my repositories and get in touch if you'd like to collaborate.
-
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jyotisinhaa.jyotisinhaa)
+
+**Made with ❤️ by Jyoti Sinha**
 
 </div>
