@@ -6,7 +6,7 @@
 
 Hi! I'm **Jyoti Sinha**, a passionate **Software Engineer** with **3+ years** of experience designing and implementing scalable microservices, AI-integrated systems, and high-performance APIs. I love building robust solutions and solving complex problems through code.
 
-* **💻 Currently:** Software Engineer at SS&C Technologies, California
+* **💻 Currently:** Software Engineer at SS&C Technologies, San Francisco, California
 * **🎓 Education:** MS Computer Science (AI Minor) - University at Buffalo | BE Electronics & Telecommunication - BIT MESRA
 * **🚀 Passion:** Building scalable microservices, AI/ML integration, and system optimization
 * **🌱 Always Learning:** New technologies, best practices, and innovative solutions
