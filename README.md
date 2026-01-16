@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">Backend Developer | Python | ML | Streamlit</h3>
+<p align="center">
+  <img
+    src="https://git.io/typing-svg?font=Fira+Code&size=24&pause=1000&duration=2500&color=58A6FF&center=true&vCenter=true&width=700&lines=I'm+Maan+Sinha;Master+in+Computer+Science;Software+Engineer;AI+Researcher"
+    alt="Typing Animation"
+  />
+</p>
+
 
 <p align="center">
   <a href="https://your-website.github.io/">🌐 Website</a> •
