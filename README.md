@@ -1,24 +1,28 @@
 ## Hi there 👋
 
-<!--
-**jyotisinhaa/jyotisinhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Jyoti Sinha
 
-Hi, I'm Jyoti Sinha — a Ph.D. Candidate in Computer Science with a minor in Statistics at Iowa State University.
-🔬 My research focuses on Deep Reinforcement Learning, LLM-based intelligent control, and AI for Smart Grids.
-⚡ I’m passionate about designing physics-informed, sustainable, and secure AI systems.
-💻 I enjoy teaching, mentoring, and developing AI-powered applications for societal impact.
-📫 Reach me at cs.kundann@gmail.com
+**Software Developer** | [Portfolio](#) | [LinkedIn](#) | [Email](mailto:your-email@gmail.com)
 
-You can follow my work on 📰 Substack | 🎥 YouTube
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: ...
--->
+I'm a passionate software developer interested in building impactful applications.
+
+- 💻 Languages: Python, JavaScript, Java, etc.
+- 🔧 Skills: Web Development, Data Structures, etc.
+- 🎯 Currently working on: [Your current project]
+
+---
+
+## 📌 Featured Projects
+
+### [Project Name](link)
+Brief description
+
+---
+
+## 📫 Let's Connect
+
+Feel free to reach out! [Email](mailto:your-email@gmail.com) | [LinkedIn](#)
