@@ -4,12 +4,12 @@
 
 ## 👋 About Me
 
-Hi! I'm **Jyoti Sinha**, a passionate **Software Developer** with a Master's degree in Computer Science. I love building scalable applications and solving complex problems through code.
+Hi! I'm Jyoti Sinha, a passionate Software Engineer with 3+ years of experience designing and implementing scalable microservices, AI-integrated systems, and high-performance APIs. I love building robust solutions and solving complex problems through code.
 
-- 💻 **Currently:** Working as a Software Developer
-- 🎓 **Education:** Master's in Computer Science
-- 🚀 **Passion:** Building impactful software solutions
-- 🌱 **Always Learning:** New technologies and best practices
+💻 Currently: Software Engineer at SS&C Technologies, California
+🎓 Education: MS Computer Science (AI Minor) - University at Buffalo | BE Electronics & Telecommunication - BIT MESRA
+🚀 Passion: Building scalable microservices, AI/ML integration, and system optimization
+🌱 Always Learning: New technologies, best practices, and innovative solutions
 
 ---
 
