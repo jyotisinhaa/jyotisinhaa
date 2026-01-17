@@ -29,7 +29,7 @@ Hi! I'm **Jyoti Sinha**, a passionate **Software Engineer** with **3+ years** of
 ## 🧰 Languages, Frameworks & Tools
 
 <p align="center">
-<a href="https://trino.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trino/trino-original.svg" width="50" height="50" alt="Trino" /></a>
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" width="50" height="50" alt="Hugging Face" /></a>
 <a href="https://www.starburst.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Starburst-4D5AFF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjNEQ1QUZGIi8+PC9zdmc+" width="50" height="50" alt="Starburst" </a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap" /></a>
