@@ -58,17 +58,6 @@ Hi! I'm **Jyoti Sinha**, a passionate **Software Engineer** with **3+ years** of
   <img src="https://raw.githubusercontent.com/jyotisinhaa/jyotisinhaa/output/snake-dark.svg" />
 </p>
 
-
----
-
-## 📈 GitHub Stats
-<div align="center">
-Check out my GitHub profile for detailed statistics:
-**[View All Repositories](https://github.com/jyotisinhaa?tab=repositories)** | **[Follow Me](https://github.com/jyotisinhaa)**
-</div>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotisinhaa&theme=tokyo-night&bg_color=1a1b27&hide_border=false" alt="Contribution Graph" width="100%" />
-</div>
 ---
 
 ## 📈 GitHub Stats
