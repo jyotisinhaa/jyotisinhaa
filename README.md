@@ -64,12 +64,13 @@ Hi! I'm **Jyoti Sinha**, a passionate **Software Engineer** with **3+ years** of
 ---
 
 ## 📈 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jyotisinhaa&theme=react&border=61dafb&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jyotisinhaa&show_icons=true&theme=react&border_color=61dafb&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotisinhaa&layout=compact&theme=react&border_color=61dafb&hide_border=true)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jyotisinhaa&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotisinhaa&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%" />
+</div>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotisinhaa&theme=tokyo-night&bg_color=1a1b27&hide_border=false" alt="Contribution Graph" width="100%" />
+</div>
 
 ![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jyotisinhaa&theme=react-dark&bg_color=20232a&hide_border=true)
 
