@@ -54,7 +54,34 @@ Hi! I'm **Jyoti Sinha**, a passionate **Software Engineer** with **3+ years** of
 </p>
 ---
 
-## 📚 Areas of Interest
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0f52ba&center=true&vCenter=true&width=600&lines=Hello+there+👋;I+am+Jyoti+Sinha;I+have+Master's+in+Computer+Science;I+am+working+as+a+Software+Engineer)](https://git.io/typing-svg)
+
+---
+
+## 👋 About Me
+
+Hi! I'm **Jyoti Sinha**, a passionate **Software Engineer** with **3+ years** of experience designing and implementing scalable microservices, AI-integrated systems, and high-performance APIs. I love building robust solutions and solving complex problems through code.
+
+* **💻 Currently:** Software Engineer at SS&C Technologies, California
+* **🎓 Education:** MS Computer Science (AI Minor) - University at Buffalo
+* **🚀 Passion:** Building scalable microservices, AI/ML integration, and system optimization
+* **🌱 Always Learning:** New technologies and best practices
+
+---
+[![Snake animation](https://raw.githubusercontent.com/jyotisinhaa/jyotisinhaa/output/snake.svg)](https://raw.githubusercontent.com/jyotisinhaa/jyotisinhaa/output/snake.svg)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jyotisinhaa&theme=react&border=61dafb&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jyotisinhaa&show_icons=true&theme=react&border_color=61dafb&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotisinhaa&layout=compact&theme=react&border_color=61dafb&hide_border=true)
+
+![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jyotisinhaa&theme=react-dark&bg_color=20232a&hide_border=true)
 
 * Scalable Microservices Architecture
 * AI/ML Integration & LLMs
