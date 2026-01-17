@@ -25,6 +25,7 @@ Hi! I'm **Jyoti Sinha**, a passionate **Software Engineer** with **3+ years** of
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 ---
+---
 ## 🧰 Languages, Frameworks & Tools
 
 <p align="center">
