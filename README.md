@@ -72,11 +72,11 @@ Hi! I'm **Jyoti Sinha**, a passionate **Software Engineer** with **3+ years** of
 ---
 
 ## 📈 GitHub Stats
-Check out my GitHub profile for detailed statistics:
 
 [![GitHub](https://img.shields.io/badge/GitHub-jyotisinhaa-blue?style=for-the-badge&logo=github)](https://github.com/jyotisinhaa)
 
 [View All Repositories](https://github.com/jyotisinhaa?tab=repositories) | [Follow Me](https://github.com/jyotisinhaa)
+
 
 ---
 
