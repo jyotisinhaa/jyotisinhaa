@@ -74,6 +74,7 @@ Check out my GitHub profile for detailed statistics:
 </div>
 
 ---
+ ## Areas of Interest
 
 * Scalable Microservices Architecture
 * AI/ML Integration & LLMs
@@ -81,13 +82,6 @@ Check out my GitHub profile for detailed statistics:
 * Backend Development
 * Open Source Contribution
 
----
-
-* Scalable Microservices Architecture
-* AI/ML Integration & LLMs
-* System Design & Optimization
-* Backend Development
-* Open Source Contribution
 
 ---
 
