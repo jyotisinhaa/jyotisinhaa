@@ -54,8 +54,6 @@ Hi! I'm **Jyoti Sinha**, a passionate **Software Engineer** with **3+ years** of
 </p>
 ---
 
-### 🐍 Contribution Graph
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/jyotisinhaa/jyotisinhaa/output/snake-dark.svg" />
 </p>
@@ -65,16 +63,17 @@ Hi! I'm **Jyoti Sinha**, a passionate **Software Engineer** with **3+ years** of
 
 ## 📈 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jyotisinhaa&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotisinhaa&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%" />
+Check out my GitHub profile for detailed statistics:
+
+[![GitHub](https://img.shields.io/badge/GitHub-jyotisinhaa-blue?style=for-the-badge&logo=github)](https://github.com/jyotisinhaa)
+
+**[View All Repositories](https://github.com/jyotisinhaa?tab=repositories)** | **[Follow Me](https://github.com/jyotisinhaa)**
 </div>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotisinhaa&theme=tokyo-night&bg_color=1a1b27&hide_border=false" alt="Contribution Graph" width="100%" />
 </div>
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0f52ba&center=true&vCenter=true&width=600&lines=Hello+there+👋;I+am+Jyoti+Sinha;I+have+Master's+in+Computer+Science;I+am+working+as+a+Software+Engineer)](https://git.io/typing-svg)
 
----
 
 
 ## 📈 GitHub Stats
