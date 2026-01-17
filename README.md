@@ -72,8 +72,15 @@ Hi! I'm **Jyoti Sinha**, a passionate **Software Engineer** with **3+ years** of
 ---
 
 ## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jyotisinhaa&show_icons=true&theme=tokyo-night&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotisinhaa&layout=compact&theme=tokyo-night" width="48%" />
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-jyotisinhaa-blue?style=for-the-badge&logo=github)](https://github.com/jyotisinhaa)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotisinhaa&theme=tokyo-night" width="48%" />
+</p>
+
 
 ---
 
