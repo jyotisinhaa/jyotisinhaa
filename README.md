@@ -1,6 +1,4 @@
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0f52ba&center=true&vCenter=true&width=600&lines=Hello+there+👋;I+am+Jyoti+Sinha;I+have+Master's+in+Computer+Science;I+am+working+as+a+Software+Developer)](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0f52ba&center=true&vCenter=true&width=600&lines=Hello+there+👋;I+am+Jyoti+Sinha;I+have+Master's+in+Computer+Science;I+am+working+as+a+Software+Developer)](https://git.io/typing-svg)
 ---
 
 <p align="center">
