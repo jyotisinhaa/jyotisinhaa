@@ -72,13 +72,43 @@ Hi! I'm **Jyoti Sinha**, a passionate **Software Engineer** with **3+ years** of
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotisinhaa&theme=tokyo-night&bg_color=1a1b27&hide_border=false" alt="Contribution Graph" width="100%" />
 </div>
 ---
-📈 GitHub Stats
-<div align="center"> 
-Check out my GitHub profile for detailed statistics:
-Repositories: View All
-Followers: Follow
-</div> <img width="462" height="153" alt="image" src="https://github.com/user-attachments/assets/90007c33-1dca-4d3c-8744-3ca9cb650450" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0f52ba&center=true&vCenter=true&width=600&lines=Hello+there+👋;I+am+Jyoti+Sinha;I+have+Master's+in+Computer+Science;I+am+working+as+a+Software+Engineer)](https://git.io/typing-svg)
 
+---
+
+
+## 📈 GitHub Stats
+
+Check out my GitHub profile for detailed statistics:
+
+[![GitHub](https://img.shields.io/badge/GitHub-jyotisinhaa-blue?style=for-the-badge&logo=github)](https://github.com/jyotisinhaa)
+
+**[View All Repositories](https://github.com/jyotisinhaa?tab=repositories)** | **[Follow Me](https://github.com/jyotisinhaa)**
+
+* Scalable Microservices Architecture
+* AI/ML Integration & LLMs
+* System Design & Optimization
+* Backend Development
+* Open Source Contribution
+
+---
+
+## 🤝 Let's Connect
+
+* 📧 **Email:** [jyotisinhacse21@gmail.com](mailto:jyotisinhacse21@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/Jyoti-Sinha](https://linkedin.com/in/Jyoti-Sinha)
+* 🐙 **GitHub:** [@jyotisinhaa](https://github.com/jyotisinhaa)
+* 📄 **Resume:** [Available upon request](mailto:jyotisinhacse21@gmail.com)
+
+---
+
+<div align="center">
+
+### Thanks for visiting! 🚀
+
+Feel free to explore my repositories and reach out to collaborate.
+
+</div>
 ---
 * Scalable Microservices Architecture
 * AI/ML Integration & LLMs
