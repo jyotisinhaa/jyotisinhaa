@@ -53,7 +53,7 @@ Hi! I'm **Jyoti Sinha**, a passionate **Software Engineer** with **3+ years** of
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" /></a>
 </p>
 
-
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jyotisinhaa/jyotisinhaa/output/snake-dark.svg" />
