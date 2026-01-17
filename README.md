@@ -69,7 +69,7 @@ Hi! I'm **Jyoti Sinha**, a passionate **Software Engineer** with **3+ years** of
 * **🌱 Always Learning:** New technologies and best practices
 
 ---
-[![Snake animation](https://raw.githubusercontent.com/jyotisinhaa/jyotisinhaa/output/snake.svg)](https://raw.githubusercontent.com/jyotisinhaa/jyotisinhaa/output/snake.svg)
+[![Snake animation](https://raw.githubusercontent.com/jyotisinhaa/jyotisinhaa/output/github-contribution-grid-snake.svg)](https://github.com/jyotisinhaa)
 
 ---
 
