@@ -89,6 +89,24 @@ Check out my GitHub profile for detailed statistics:
 </div>
 
 ---
+## 📈 GitHub Stats
+
+Check out my GitHub profile for detailed statistics:
+
+[View All Repositories](https://github.com/jyotisinhaa?tab=repositories) | [Follow Me](https://github.com/jyotisinhaa)
+
+<div align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotisinhaa&theme=tokyo-night&bg_color=1a1b27&hide_border=false" alt="Contribution Graph" width="100%" />
+
+  <!-- GitHub Stats Card -->
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jyotisinhaa&show_icons=true&theme=tokyo-night&count_private=true" width="48%" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotisinhaa&layout=compact&theme=tokyo-night" width="48%" />
+</div>
+---
  ## Areas of Interest
 
 * Scalable Microservices Architecture
