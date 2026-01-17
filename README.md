@@ -75,8 +75,6 @@ Hi! I'm **Jyoti Sinha**, a passionate **Software Engineer** with **3+ years** of
 
 [![GitHub](https://img.shields.io/badge/GitHub-jyotisinhaa-blue?style=for-the-badge&logo=github)](https://github.com/jyotisinhaa)
 
-[View All Repositories](https://github.com/jyotisinhaa?tab=repositories) | [Follow Me](https://github.com/jyotisinhaa)
-
 ---
 
 * Scalable Microservices Architecture
