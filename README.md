@@ -9,9 +9,6 @@
   <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Scholar" />
   </a>
-  <a href="https://orcid.org/YOUR-ORCID-ID" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
-  </a>
   <a href="https://your-website.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=globeglobe&logoColor=white" alt="Website" />
   </a>
