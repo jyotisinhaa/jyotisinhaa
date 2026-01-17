@@ -77,7 +77,6 @@ Hi! I'm **Jyoti Sinha**, a passionate **Software Engineer** with **3+ years** of
 
 [View All Repositories](https://github.com/jyotisinhaa?tab=repositories) | [Follow Me](https://github.com/jyotisinhaa)
 
-
 ---
 
 * Scalable Microservices Architecture
