@@ -3,10 +3,18 @@
 ---
 
 <p align="center">
-  <a href="https://your-website.github.io/">🌐 Website</a> •
-  <a href="https://www.linkedin.com/in/your-link/">LinkedIn</a> •
-  <a href="https://medium.com/@yourid">Medium</a> •
-  <a href="https://www.kaggle.com/yourid">Kaggle</a>
+  <a href="https://www.linkedin.com/in/jyoti-sinha20/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Scholar" />
+  </a>
+  <a href="https://orcid.org/YOUR-ORCID-ID" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
+  <a href="https://your-website.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=globeglobe&logoColor=white" alt="Website" />
+  </a>
 </p>
 
 Hi! I'm **Jyoti Sinha**, a passionate **Software Engineer** with **3+ years** of experience designing and implementing scalable microservices, AI-integrated systems, and high-performance APIs. I love building robust solutions and solving complex problems through code.
