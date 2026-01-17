@@ -13,7 +13,6 @@ Hi! I'm **Jyoti Sinha**, a passionate **Software Engineer** with **3+ years** of
 ---
 ## 🧰 Languages, Frameworks & Tools
 
-**Row 1:**
 <p align="center">
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" /></a>
@@ -32,7 +31,6 @@ Hi! I'm **Jyoti Sinha**, a passionate **Software Engineer** with **3+ years** of
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS" /></a>
 </p>
 
-**Row 2:**
 <p align="center">
 <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width="50" height="50" alt="Redis" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL" /></a>
@@ -51,26 +49,11 @@ Hi! I'm **Jyoti Sinha**, a passionate **Software Engineer** with **3+ years** of
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" /></a>
 </p>
 
-**Row 3:**
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" /></a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" /></a>
 </p>
-
-**Programming Language:** Java, C#, Python, Golang, JavaScript, SQL, HTML, CSS, React JS, Bootstrap
-
-**AI & LLM Integration:** LangChain, OpenAI, RAG, Vector DB (FAISS, Pinecone), MCP, Ollama, Hugging Face, Transformers, Prompt Engineering, TensorFlow, Keras, NumPy, Pandas, CNN, RNN
-
-**Databases & Data Systems:** PostgreSQL, MS SQL Server, MongoDB, Redis, Trino, Starburst, Apache Hive
-
-**Cloud & DevOps & Monitoring:** Docker, Kubernetes, Helm, AWS (Lambda, EC2, S3), Model Deployment Pipelines, Grafana, Prometheus
-
-**Backend Frameworks & Tools:** Spring Boot, Maven, Gradle, Hibernate, JPA, ASP.NET, FastAPI, RESTful APIs, gRPC, ProtoBuf, Streamlit
-
-**Machine Learning & Tools:** TensorFlow, Keras, NumPy, Pandas, Clustering Algorithm, CNN, RNN, MLP, SPSS, Git, JIRA, Swagger, Postman
-
-**Core Strengths:** System Design, Scalable Microservices, API Optimization, Data-Driven Problem Solving, Critical Thinking
 
 ---
 
