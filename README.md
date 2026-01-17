@@ -12,7 +12,7 @@ Hi! I'm **Jyoti Sinha**, a passionate **Software Engineer** with **3+ years** of
 
 ---
 
-## 💻 Programming Languages
+## 💻 Top Programming Languages
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -29,6 +29,8 @@ Hi! I'm **Jyoti Sinha**, a passionate **Software Engineer** with **3+ years** of
 ## 🧰 Languages, Frameworks & Tools
 
 <p align="center">
+<a href="https://trino.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trino/trino-original.svg" width="50" height="50" alt="Trino" /></a>
+<a href="https://www.starburst.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Starburst-4D5AFF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjNEQ1QUZGIi8+PC9zdmc+" width="50" height="50" alt="Starburst" </a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap" /></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50" alt="Spring Boot" /></a>
@@ -37,7 +39,12 @@ Hi! I'm **Jyoti Sinha**, a passionate **Software Engineer** with **3+ years** of
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt="MongoDB" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" height="50" alt="Docker" /></a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes" /></a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS" /></a>
+<a href="https://temporal.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/temporal/temporal-original.svg" width="50" height="50" alt="Temporal" /></a>
+<a href="https://helm.sh/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="50" height="50" alt="Helm" /></a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" width="50" height="50" alt="Streamlit" /></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50" height="50" alt="JIRA" /></a>
+
+
 </p>
 
 <p align="center">
@@ -54,12 +61,12 @@ Hi! I'm **Jyoti Sinha**, a passionate **Software Engineer** with **3+ years** of
 <a href="https://gradle.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="50" height="50" alt="Gradle" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50" alt="Postman" /></a>
 <a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="50" height="50" alt="Swagger" /></a>
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50" height="50" alt="JIRA" /></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" /></a>
 </p>
 
 <p align="center">
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS" /></a>
 </p>
 
 ---
