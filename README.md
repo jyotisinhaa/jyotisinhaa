@@ -71,9 +71,7 @@ Hi! I'm **Jyoti Sinha**, a passionate **Software Engineer** with **3+ years** of
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotisinhaa&theme=tokyo-night&bg_color=1a1b27&hide_border=false" alt="Contribution Graph" width="100%" />
 </div>
-
-![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jyotisinhaa&theme=react-dark&bg_color=20232a&hide_border=true)
-
+---
 * Scalable Microservices Architecture
 * AI/ML Integration & LLMs
 * System Design & Optimization
