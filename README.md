@@ -117,8 +117,6 @@ Check out my GitHub profile for detailed statistics:
 
 * 📧 **Email:** [jyotisinhacse21@gmail.com](mailto:jyotisinhacse21@gmail.com)
 * 💼 **LinkedIn:** [linkedin.com/in/jyoti-sinha20](https://www.linkedin.com/in/jyoti-sinha20/)
-* 🐙 **GitHub:** [github.com/jyotisinhaa](https://github.com/jyotisinhaa)
-* 📄 **Resume:** Find it on my website
 
 ---
 
