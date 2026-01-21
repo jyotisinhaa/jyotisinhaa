@@ -8,6 +8,9 @@
   <a href="https://jyotisinha-portfolio.vercel.app/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=globeglobe&logoColor=white" alt="Website" />
   </a>
+    <a href="https://jyotisinhaa.github.io/resume/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
 </p>
 
 Hi! I'm **Jyoti Sinha**, a passionate **Software Engineer** with **3+ years** of experience designing and implementing scalable microservices, AI-integrated systems, and high-performance APIs. I love building robust solutions and solving complex problems through code.
